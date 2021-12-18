@@ -3,8 +3,8 @@
 **	BILGISAYAR MUHENDISLIGI BOLUMU
 **	PROGRAMLAMAYA GIRIS
 **
-**	ÖĞRENCİ ADI......:Mustafa BİCER
-**	ÖĞRENCİ NUMARASI.:b201210078
+**	ÖĞRENCİ ADI......:Poqob
+**	ÖĞRENCİ NUMARASI.:b20-----
 **	DERS GRUBU…………………:C
 ****************************************************************************/
 #include <iostream>
